@@ -1,3 +1,4 @@
+
 <?php
 /**
  * PHPMailer POP-Before-SMTP Authentication Class.
